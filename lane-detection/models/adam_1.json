@@ -1,0 +1,32 @@
+{
+    "early_stop": true,
+    "optimiser": "Adam (\nParameter Group 0\n    amsgrad: False\n    betas: (0.9, 0.999)\n    eps: 1e-08\n    lr: 0.0005\n    weight_decay: 0.0\n)",
+    "batch_shape": {
+        "batch_size": 1,
+        "num_batches": 3627
+    },
+    "settings": {
+        "N_SEG": 5,
+        "HEIGHT": 360,
+        "WIDTH": 640,
+        "RATIO": 2
+    },
+    "loss": {
+        "loss_function": "InstanceLoss()",
+        "epochs": 5,
+        "epoch_loss": [
+            2127.26141653955,
+            1132.7210266962647,
+            1014.2642925605178,
+            944.8633180111647,
+            915.5106808878481
+        ]
+    },
+    "training_time": 2443.3798172329883,
+    "evaluation": {
+        "mean": {
+            "average_accuracy": 0.8632728253055398,
+            "number_of_evaluation_images": 2782
+        }
+    }
+}

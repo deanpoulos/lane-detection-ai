@@ -1,0 +1,42 @@
+{
+    "early_stop": false,
+    "optimiser": "SGD (\nParameter Group 0\n    dampening: 0\n    lr: 0.15\n    momentum: 0.05\n    nesterov: False\n    weight_decay: 0\n)",
+    "batch_shape": {
+        "batch_size": 10,
+        "num_batches": 363
+    },
+    "settings": {
+        "N_SEG": 5,
+        "HEIGHT": 360,
+        "WIDTH": 640,
+        "RATIO": 2
+    },
+    "loss": {
+        "loss_function": "InstanceLoss()",
+        "epochs": 15,
+        "epoch_loss": [
+            515.01085460186,
+            443.4236707687378,
+            288.27488842606544,
+            148.17248921096325,
+            120.0792261660099,
+            109.47662984579802,
+            104.20411442220211,
+            100.0593805834651,
+            97.3282909616828,
+            95.56702275574207,
+            94.0504395365715,
+            92.40252878516912,
+            90.67295810207725,
+            89.68129601329565,
+            87.52744527161121
+        ]
+    },
+    "training_time": 2861.793977022171,
+    "evaluation": {
+        "mean": {
+            "average_accuracy": 0.870694579952764,
+            "number_of_evaluation_images": 2782
+        }
+    }
+}

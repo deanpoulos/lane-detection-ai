@@ -1,0 +1,20 @@
+Vision-based vehicle detection and inter-vehicle distance estimation
+    https://ieeexplore.ieee.org/abstract/document/6393258?casa_token=ctp_82COIHAAAAAA:v6R9TaKTpUjqK1vMFR-n9qv8qlyUmuXRpLY28wsRdhoKxq_i-vDZur0XUUIBF-RNiqcueyzh
+
+Robust Parameter Estimation in Computer Vision
+    https://epubs.siam.org/doi/abs/10.1137/S0036144598345802?casa_token=5l1L1Eq-HwsAAAAA:A8obHnwdLnnw6PWdn8DsafKsoD9z3eU1r_YP3zlLanwyQmD1FNYgeZwB-_M47QfM1nse_dOQyQ
+
+Robust Inter-Vehicle Distance Estimation Method Based on Monocular Vision
+    https://ieeexplore.ieee.org/abstract/document/8678911
+
+Vehicle Tracking and Distance Estimation Based on Multiple Image Features
+    https://ieeexplore.ieee.org/abstract/document/4228561?casa_token=cZb76UkX2jEAAAAA:RfUCrY5KVZA8SRvpvthd-AlswD-qaiuHttuKJ1io2wCoMN_ZyiScNVR4t0zAdmsV0rbnSVZm
+
+Learning Object-Specific Distance From a Monocular Image
+    https://openaccess.thecvf.com/content_ICCV_2019/html/Zhu_Learning_Object-Specific_Distance_From_a_Monocular_Image_ICCV_2019_paper.html
+
+A Comparison of Low-Cost Monocular Vision Techniques for Pothole Distance Estimation
+    https://ieeexplore.ieee.org/abstract/document/7376642
+
+Target distance estimation using monocular vision system for mobile robot
+    https://ieeexplore.ieee.org/abstract/document/6079296
